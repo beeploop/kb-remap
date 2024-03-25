@@ -2,5 +2,5 @@
 
 ## Run
 ```bash
-    xmodmap xmod-remap
+xmodmap xmod-remap
 ```
