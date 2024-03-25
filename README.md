@@ -1,6 +1,6 @@
 # Xmodmap keyboard remap script
 
 ## Run
-`bash
+```bash
     xmodmap xmod-remap
-`
+```
