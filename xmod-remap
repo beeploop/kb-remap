@@ -6,6 +6,7 @@ keycode 45 = k K Up K
 keycode 46 = l L Right L
 keycode 24 = q Q Home Q
 keycode 26 = e E End E
+keycode 56 = b B BackSpace B
 keycode 9 = Escape grave grave Escape
 keycode 23 = Tab asciitilde Tab ISO_Left_Tab
-
+keycode 135 = Super_L
